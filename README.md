@@ -16,6 +16,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 video](#video)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -63,6 +64,14 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://kit0-0.github.io/Capstone-summit/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Video -->
+
+## 🚀 Video <a name="Video"></a>
+
+- [Video Link]([https://kit0-0.github.io/Capstone-summit/](https://drive.google.com/file/d/1H6tkAsy__pyTV4n-mEJzRv9xhNCgt2rQ/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
